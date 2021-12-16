@@ -13,9 +13,9 @@ package task2and3;
 
 public class Chatter {
 private String[] chats = {
-		"Oh, you’re going for broke, huh?",
-		"Aw c’mon, take a chance!",
-		"You’re up big. Now’s the time to cash in your chips!",
+		"Oh, youâ€™re going for broke, huh?",
+		"Aw câ€™mon, take a chance!",
+		"Youâ€™re up big. Nowâ€™s the time to cash in your chips!",
 		"Come on, you can make it!"		
 };
 public void generateString() {

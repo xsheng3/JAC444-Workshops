@@ -1,4 +1,4 @@
-Workshop 1
+Workshop 6
 
 Description:
-The first Assignment lets you practice basic java coding techniques, creating classes, methods and using arrays.
+The following workshop lets you practice basic java coding techniques, creating classes, methods, using arrays, inheritance, polymorphism, Exceptional Handling, Java I/O.
